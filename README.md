@@ -195,10 +195,6 @@ This is a demo project, but contributions are welcome! Feel free to:
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ---
 
 ## 🙏 Acknowledgments
@@ -211,11 +207,10 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Contact Information
 
-**Developer:** Ashok Chandrapal  
-**Phone:** +91 9033359874  
-**Email:** developer7039@gmail.com  
-**GitHub:** [github.com/developer-ashok](https://github.com/developer-ashok)  
-**LinkedIn:** [linkedin.com/in/ashok-chandrapal](https://linkedin.com/in/ashok-chandrapal)
+**Developer:** Krupakar Gurije  
+**Email:** krupakargurije@gmail.com  
+**GitHub:** [github.com/krupakargurije](https://github.com/krupakargurije)  
+**LinkedIn:** [linkedin.com/in/krupakargurije](https://www.linkedin.com/in/gurije-krupakar)
 
 ---
 
